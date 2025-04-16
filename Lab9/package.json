@@ -1,0 +1,17 @@
+{
+  "name": "lab9",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "jest": "^29.7.0",
+    "jest-html-reporters": "^3.1.7",
+    "pactum": "^3.7.6",
+    "pactum-json-reporter": "^1.0.2"
+  }
+}
